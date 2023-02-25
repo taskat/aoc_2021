@@ -1,0 +1,10 @@
+inp y
+mul y 26
+add x y
+inp y
+add y 12
+add x y
+mod x 26
+add x 15
+inp y
+eql x y
